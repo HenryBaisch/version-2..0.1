@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+git remote set-url origin https://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@github.com/HenryBaisch/version2.0.git
